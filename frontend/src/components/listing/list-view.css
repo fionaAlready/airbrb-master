@@ -1,0 +1,51 @@
+.listing-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  width: 70vw;
+}
+
+.listing-view-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.reserve-btn {
+  /* margin-top: 16px; */
+}
+.price-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.booking-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.mt-16 {
+  margin-top: 16px;
+}
+
+.w-full{
+    width: 100%;
+}
+
+.header{
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.a{
+  color: blue;
+}
+.a:hover{
+  cursor: pointer;
+  border-bottom: 1px solid blue;
+}

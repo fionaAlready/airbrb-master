@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.a:hover{
+    cursor: pointer;
+    border-bottom: 1px solid blue;
+}
+.a {
+    color: blue;
+}
